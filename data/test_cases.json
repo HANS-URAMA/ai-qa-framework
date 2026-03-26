@@ -1,0 +1,5 @@
+[
+  {"input": "Is the sky blue?", "expected": "Yes, this is correct."},
+  {"input": "2 + 2 = 5?", "expected": "No, this is incorrect."},
+  {"input": "Explain quantum physics", "expected": "I'm not sure."}
+]
